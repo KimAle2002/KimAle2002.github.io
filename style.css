@@ -1,0 +1,401 @@
+@import url('https://fonts.googleapis.com/css2?family=Molle&family=Oswald:wght@400;500;600;700&display=swap');
+
+
+/* Estilos generales */
+body {
+    font-family: 'Molle', cursive;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #F4F1E9;
+}
+.menunav {
+    display: flex;
+    align-items: center;
+}
+.menu{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.carrito{
+    display: flex;
+}
+.carrito a img{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 27px;
+}
+#portada{
+    width: 100%;
+    background-color: #F4F1E9;
+}
+.portada img{
+    width: 1037px;
+    height: 822px;
+}
+.portada{
+    display: flex;
+    justify-content: center;
+}
+.texto {
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: #DB0935;
+    text-align: center;
+}
+#compras-seccion
+.section-wrapper {
+    background:#e8ca83;
+}
+
+ #compras-seccion
+.section-content {
+    background: rgba(0, 0, 0, 0);
+    border-color: ;
+    color: ;
+}
+
+ #compras-seccion .fs-buttons > a > div{
+    background: #ce9b3d;
+    border-color: #0e1f24;
+    color: #f7ecdf;
+}
+
+ #compras-seccion .fs-buttons > a > div:hover{
+    background: #97061d;
+    border-color: #97061d;
+    color:#f7ecdf;
+}
+#shopify-section-59d2004f-bb8f-4fce-8228-eafe6f1fd435 .section-wrapper {
+    background: #e8ca83;
+}
+
+#seccion-contenedor .tw-root .py-8 {
+    border-top-width: 3px;
+    border-color: #0e1f24;
+}
+
+.tw-root .py-8 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.tw-root .max-w-full {
+    max-width: 100%;
+}
+
+.tw-root .px-xs {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.tw-root .columns-1 {
+    -moz-columns: 1;
+    columns: 1;
+}
+.tw-root .overflow-hidden {
+    overflow: hidden;
+}
+
+#texto {
+    text-align: center;
+    color:#0e1f24
+}
+#texto .tw-root .text_display1{
+    font-size: 20rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-transform: var(--headerFontTransform);
+}
+
+#texto .tw-root .text_headline1 {
+    color: #0e1f24;
+    font-size: 6rem;
+    font-weight: 400;
+    text-decoration: var(--headerFontTransform);
+}
+
+#texto .tw-root .text_bodylarge {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: var(--bodyFontTransform);
+}
+
+#texto .tw-root .body_color {
+    color: ;
+    font-size: 6rem;
+    font-weight: 400;
+}
+
+#section-index {
+    padding-top: 1rem;
+    background: #e8ca83;
+}
+#section-grid-black .section-grid-item .section-grid-item-content {
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    border-bottom: 0 solid; transparent;
+    border-bottom: 0 solid transparent;
+    transition: border 0.1s; ease-in-out;
+}
+
+#section-grid-wrapper .section-grid-container .section-grid-item-container .section-grid-item .section-grid-item-content{
+    padding: 20px
+}
+
+.section-grid-wrapper .section-grid-container .section-grid-item-container .section-grid-item .section-grid-item-content {
+    display: table-cell;
+    position: relative;
+}
+
+#section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7.section-grid-item-container {
+    background-color: #82b0bc;
+    background-image: url(//shop.niallhoran.com/cdn/shop/files/NH_THESHOW__0000_BOX-SET_VINYL_496e26d4-1fbb-475a-81c7-e5240f0ecae9_600x.png?v=1676424322);
+    background-position: center;
+    height: auto;
+}
+
+#section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7, #section-grid-block-d37839f4-7bbc-4e77-8824-06f672547fac, #section-grid-block-860e61a1-3956-4b19-91ca-8f97e6ce2316 {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #0e1f24;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 20px!important;
+    padding-top: 20px;
+#section-grid-block {
+grid-column: 6 / 13;
+grid-row: 1 / 1;
+}
+
+#section-grid-block .section-grid-item-container {
+    background-color: #82b0bc;
+    background-image: image(image);
+    height: auto;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #0e1f24;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 20px!important;
+    padding-top: 20px;
+}
+
+#section-grid-item-container {
+    border-radius: 20px;
+}
+
+#section-grid-block .section-grid-item-container {
+    background-color: #82b0bc;
+    background-position: center;
+    height: auto;
+    background-image: none
+}
+
+#section-grid-block-d37839f4-7bbc-4e77-8824-06f672547fac .section-grid-item .section-grid-item-content {
+    color: #f4f1e9;
+    text-align: left;
+    vertical-align: bottom;
+    border-bottom: 0 solid transparent;
+    border-top: 0 solid transparent;
+    transition: border 0.1s ease-in-out;
+}
+
+.section-grid-wrapper .section-grid-container .section-grid-item-container .section-grid-item .section-grid-item-content p.title, .section-grid-wrapper .section-grid-container .section-grid-item-container .section-grid-item .section-grid-item-content p.subtitle {
+    font-weight: 700;
+#section-grid-wrapper .section-grid-container .section-grid-item-container {
+    position: relative;
+}
+
+
+#section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7.section-grid-item-container {
+    background-color: #82b0bc;
+    
+      background-image: url(//shop.niallhoran.com/cdn/shop/files/NH_THESHOW__0000_BOX-SET_VINYL_496e26d4-1fbb-475a-81c7-e5240f0ecae9_600x.png?v=1676424322);
+      background-position: center;
+    
+    
+      height: auto;
+    
+  }
+  @media screen and (min-width: 769px) {
+    #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7.section-grid-item-container {
+      
+        background-image: url(//shop.niallhoran.com/cdn/shop/files/NH_THESHOW__0000_BOX-SET_VINYL_600x.png?v=1676424313);
+      
+      
+        height: auto;
+      
+      
+        grid-column: 6 / 13;
+      
+      
+        grid-row: 1 / 1;
+      
+    }
+  }
+  #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item:hover .section-grid-item-overlay {
+    
+  }
+  #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item .section-grid-item-content {
+    
+      color: #f4f1e9;
+    
+    text-align: left;
+    vertical-align: bottom;
+    
+      border-bottom: 0 solid transparent;
+      border-top: 0 solid transparent;
+      transition: border 0.1s ease-in-out;
+    
+  }
+    #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item .section-grid-item-content p.title {
+      font-size: 1.4rem;
+      
+    }
+    #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item .section-grid-item-content p.subtitle {
+      font-size: 0.7rem;
+    }
+    @media screen and (min-width: 769px) {
+      #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item .section-grid-item-content p.title {
+        font-size: 1.8rem;
+      }
+      #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item .section-grid-item-content p.subtitle {
+        font-size: 1.4rem;
+        color: #f4f1e9;
+      }
+    }
+  #section-grid-block-63989616-5fcd-4f00-816b-f16195c498a7 .section-grid-item:hover .section-grid-item-content {
+    
+    
+      border-bottom: 0 solid #ffffff;
+      border-top: 0 solid transparent;
+    
+  }
+  
+
+
+#shopify-section-cc42726f-5041-4234-8e19-f71542f98364 {
+    padding-top: 1rem;
+    background: #e8ca83;
+}
+*, input, :before, :after {
+    box-sizing: border-box;
+} 
+
+#seccion-music .tw-root .w-full{
+    width: 100%;
+}
+#seccion-music .h-full{
+    height: 100%;
+}
+@media (max-width: 768px) {
+    (max-width: 768px)
+    #section-grid-item-container {
+    grid-column: 6 / 13;
+    grid-row: 1 / 1;
+
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.logo h1 {
+    margin: 0;
+    padding: 10px;
+    color: #333;
+    font-size: 24px;
+}
+.music{
+   :before, :after {
+    box-sizing: border-box;
+   }
+}
+section {
+    display:block;
+}
+#wrapper-section {
+    background: #e8ca83;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-attachment: initial;
+    background-clip: initial;
+    background-color: rgb(232, 202, 131);
+}
+#shopifly-section{
+    border-top-width: 3px;
+    border-color: #0e1f24;
+    border-top-color: rgb(14, 31, 36);
+    border-right-color: rgb(14, 31, 36);
+    border-bottom-color: rgb(14, 31, 36);
+    border-left-color: rgb(14, 31, 36);
+}
+/*Vista Movil*/
+@media (max-width: 767px){
+    
+    .container {
+        margin: 0 30px;
+        padding: 50px 0;
+    }
+    .menunav {
+        padding: 20px 0;
+    }
+    /*Estilo a mi Navegación*/
+    .abrir-menu, .cerrar-menu{
+        display: block;
+        padding: 0;
+    }
+}
+
+/* Estilos de la barra de navegación */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.cart-icon img {
+    width: 20px;
+    height: auto;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #f2f2f2;
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+}
